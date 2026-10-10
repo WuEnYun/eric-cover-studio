@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "episode_id": null,
+  "version": null,
+  "approved_source": null,
+  "user_approval": {"status": "pending", "evidence": null},
+  "visual_qa": {"status": "pending", "reviewer": null, "notes": null},
+  "method": null,
+  "source_provenance": [],
+  "files": [
+    {"file": null, "ratio": "16:9", "width": 1920, "height": 1080},
+    {"file": null, "ratio": "4:3", "width": 1600, "height": 1200},
+    {"file": null, "ratio": "3:4", "width": 1080, "height": 1440}
+  ],
+  "legacy_files": [],
+  "zip": null
+}
