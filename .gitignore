@@ -1,0 +1,13 @@
+**/assets/private/
+*.xlsx
+*.xls
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.zip
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
