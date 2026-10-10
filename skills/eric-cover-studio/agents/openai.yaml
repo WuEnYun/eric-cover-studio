@@ -1,0 +1,4 @@
+interface:
+  display_name: "Eric 自媒体封面工作室"
+  short_description: "依据 Eric 的审美反馈，制作并检查横版、竖版自媒体封面"
+  default_prompt: "请用 $eric-cover-studio 为这一期视频制作封面，先确认主视觉，再输出所需尺寸。"
